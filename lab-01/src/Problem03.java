@@ -2,10 +2,12 @@ import java.util.Scanner;
 
 public class Problem03 {
     public static void main(String[] args) {
-        System.out.print("What is your name? ");
         Scanner scanner = new Scanner(System.in);
-        String firstName;
-        firstName = scanner.next();
-        System.out.println("Hello, " + firstName + "!");
+        System.out.print("What is your name? ");
+        String name= scanner.nextLine();
+        System.out.println("Hello, " + name + "!");
+        System.out.println("Your name in upper-case: " + name.toUpperCase());
+        System.out.println("Your name in lower-case: " + name.toLowerCase());
+        System.out.println("The total number of characters is " + name.length());
     }
 }

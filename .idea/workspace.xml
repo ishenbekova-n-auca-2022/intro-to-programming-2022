@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="Problem 06 almost completed">
-      <change afterPath="$PROJECT_DIR$/lab-01/intro-to-programming-2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-01/src/Problem04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-01/src/Problem05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-01/src/Problem07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-01/src/Problem08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-01/src/Problem09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-01/src/Problem10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/intro-to-programming-2022/.gitignore" afterDir="false" />
+    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="All problems in lab-01 are completed">
+      <change afterPath="$PROJECT_DIR$/lab-02/lab-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-02/src/Problem01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-02/src/Problem04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-02/src/Problem06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-02/src/Problem07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-02/src/Problem08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oj-midterm/oj-midterm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intro-to-programming-2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/intro-to-programming-2022.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab-01/src/Problem02.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-01/src/Problem02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab-01/src/Problem03.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-01/src/Problem03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab-01/src/Problem06.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-01/src/Problem06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/intro-to-programming-2022/Problem02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/intro-to-programming-2022/Problem02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/intro-to-programming-2022/Problem03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/intro-to-programming-2022/Problem03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/intro-to-programming-2022/Problem06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/intro-to-programming-2022/Problem06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-01/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/intro-to-programming-2022/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +45,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-17&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/lenovo/IdeaProjects/intro-to-programming-2022&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -58,12 +56,26 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/lab-01" />
       <recent name="$PROJECT_DIR$/lab-01/src" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem10">
+  <component name="RunManager" selected="Application.Problem08">
+    <configuration name="Problem01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem01" />
+      <module name="lab-02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem01" />
+      <module name="oj-midterm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Problem02" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem02" />
       <module name="intro-to-programming-2022" />
@@ -71,48 +83,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem05" />
-      <module name="intro-to-programming-2022" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Problem06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem06" />
-      <module name="intro-to-programming-2022" />
+      <module name="lab-02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Problem07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem07" />
-      <module name="intro-to-programming-2022" />
+      <module name="lab-02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem09" />
-      <module name="intro-to-programming-2022" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem10" />
-      <module name="intro-to-programming-2022" />
+    <configuration name="Problem08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem08" />
+      <module name="lab-02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem10" />
-        <item itemvalue="Application.Problem09" />
+        <item itemvalue="Application.Problem08" />
         <item itemvalue="Application.Problem07" />
         <item itemvalue="Application.Problem06" />
-        <item itemvalue="Application.Problem05" />
+        <item itemvalue="Application.Problem01 (1)" />
+        <item itemvalue="Application.Problem01" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663255420160</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="All problems in lab-01 are completed">
+      <created>1664125631208</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664125631208</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,7 +205,8 @@
     <MESSAGE value="Finish Problem 3 in Lab 1" />
     <MESSAGE value="Finish Problem  3 in Lab 1" />
     <MESSAGE value="Problem 06 almost completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 06 almost completed" />
+    <MESSAGE value="All problems in lab-01 are completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="All problems in lab-01 are completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -213,6 +219,16 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab-02/src/Problem04.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab-02/src/Problem06.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

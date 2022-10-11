@@ -3,10 +3,13 @@ import java.util.Scanner;
 public class Problem04 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
         System.out.print("1st int? ");
         int firstInt = scanner.nextInt();
+
         System.out.print("2nd int? ");
         int secondInt = scanner.nextInt();
+        
         int addition = firstInt + secondInt;
         int subtraction = firstInt - secondInt;
         int multiplication = firstInt * secondInt;

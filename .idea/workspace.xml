@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="OJ Midterm Problems 1-5 are accepted">
-      <change afterPath="$PROJECT_DIR$/lab-02/src/Problem02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-02/src/Problem03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-02/src/Problem05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-03/lab-03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-03/src/Problem01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab-01/src/Problem03.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-01/src/Problem03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab-01/src/Problem04.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-01/src/Problem04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab-01/src/Problem09.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-01/src/Problem09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab-01/src/Problem10.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-01/src/Problem10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab-02/src/Problem04.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-02/src/Problem04.java" afterDir="false" />
-    </list>
+    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="OJ Midterm Problem 6 is accepted" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664803251770</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="OJ Midterm Problem 6 is accepted">
+      <created>1665497381312</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665497381312</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,7 +222,8 @@
     <MESSAGE value="Problems 1, 6-8 in lab-2 are completed" />
     <MESSAGE value="Problems 9-10 in lab-2 are completed" />
     <MESSAGE value="OJ Midterm Problems 1-5 are accepted" />
-    <option name="LAST_COMMIT_MESSAGE" value="OJ Midterm Problems 1-5 are accepted" />
+    <MESSAGE value="OJ Midterm Problem 6 is accepted" />
+    <option name="LAST_COMMIT_MESSAGE" value="OJ Midterm Problem 6 is accepted" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="OJ Midterm Problem 6 is accepted" />
+    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="OJ Midterm Problem 10 is accepted">
+      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,20 +28,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/lenovo/IdeaProjects/intro-to-programming-2022&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-17",
+    "last_opened_file_path": "/home/lenovo/IdeaProjects/intro-to-programming-2022",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -46,7 +49,7 @@
       <recent name="$PROJECT_DIR$/lab-01/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem10">
+  <component name="RunManager" selected="Application.Problem16">
     <configuration name="Problem01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem01" />
       <module name="lab-03" />
@@ -68,13 +71,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem08" />
-      <module name="oj-midterm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Problem09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem09" />
       <module name="oj-midterm" />
@@ -89,13 +85,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem16" />
+      <module name="oj-midterm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem16" />
         <item itemvalue="Application.Problem10" />
         <item itemvalue="Application.Problem09" />
         <item itemvalue="Application.Problem06" />
         <item itemvalue="Application.Problem01" />
-        <item itemvalue="Application.Problem08" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +202,35 @@
       <option name="project" value="LOCAL" />
       <updated>1665497381312</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="OJ Midterm Problem 7 is accepted">
+      <created>1665498268288</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665498268288</updated>
+    </task>
+    <task id="LOCAL-00015" summary="OJ Midterm Problem 8 is accepted">
+      <created>1665498320063</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1665498320063</updated>
+    </task>
+    <task id="LOCAL-00016" summary="OJ Midterm Problem 9 is accepted">
+      <created>1665498429786</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1665498429786</updated>
+    </task>
+    <task id="LOCAL-00017" summary="OJ Midterm Problem 10 is accepted">
+      <created>1665498491667</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665498491667</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,7 +254,11 @@
     <MESSAGE value="Problems 9-10 in lab-2 are completed" />
     <MESSAGE value="OJ Midterm Problems 1-5 are accepted" />
     <MESSAGE value="OJ Midterm Problem 6 is accepted" />
-    <option name="LAST_COMMIT_MESSAGE" value="OJ Midterm Problem 6 is accepted" />
+    <MESSAGE value="OJ Midterm Problem 7 is accepted" />
+    <MESSAGE value="OJ Midterm Problem 8 is accepted" />
+    <MESSAGE value="OJ Midterm Problem 9 is accepted" />
+    <MESSAGE value="OJ Midterm Problem 10 is accepted" />
+    <option name="LAST_COMMIT_MESSAGE" value="OJ Midterm Problem 10 is accepted" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

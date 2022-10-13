@@ -2,7 +2,8 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class Problem04 {
-    public static  final double CM_PER_INCH = 2.54;
+    public static final double CM_PER_INCH = 2.54;
+
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
 
@@ -13,6 +14,6 @@ public class Problem04 {
 
         double lengthInCm = lengthInInches * CM_PER_INCH;
 
-        System.out.printf("%.2f in. = %.2f cm%n");
+        System.out.printf("%.0f in. = %.2f cm.%n", lengthInInches, lengthInCm);
     }
 }

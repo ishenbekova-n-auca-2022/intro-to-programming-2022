@@ -50,7 +50,7 @@
       <recent name="$PROJECT_DIR$/lab-01/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem02 (2)">
+  <component name="RunManager" selected="Application.Problem04">
     <configuration name="Problem01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem01" />
       <module name="lab-03" />
@@ -95,10 +95,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem04" />
         <item itemvalue="Application.Problem02 (2)" />
         <item itemvalue="Application.Problem01" />
         <item itemvalue="Application.Problem05" />
-        <item itemvalue="Application.Problem04" />
         <item itemvalue="Application.Problem02 (1)" />
       </list>
     </recent_temporary>

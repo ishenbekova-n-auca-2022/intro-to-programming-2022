@@ -8,5 +8,12 @@ public class Problem17 {
         int m = input.nextInt();
         int l = input.nextInt();
 
+        int score = s + (2 * m) + (3 * l);
+
+        if (score >= 10) {
+            System.out.println("happy");
+        } else {
+            System.out.println("sad");
+        }
     }
 }

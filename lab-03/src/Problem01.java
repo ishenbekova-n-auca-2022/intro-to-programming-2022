@@ -3,11 +3,9 @@ import java.util.Scanner;
 
 public class Problem01 {
     public static void main(String[] args) {
-        Locale.setDefault(Locale.US);
-
         Scanner input = new Scanner(System.in);
 
-        System.out.println("some real number? ");
+        System.out.print("some real number? ");
         double x = input.nextDouble();
 
         double r = x;

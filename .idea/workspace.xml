@@ -52,7 +52,7 @@
       <recent name="$PROJECT_DIR$/lab-01/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem18">
+  <component name="RunManager" selected="Application.Problem20">
     <configuration name="Problem02" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem02" />
       <module name="intro-to-programming-2022" />
@@ -97,8 +97,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem18" />
         <item itemvalue="Application.Problem20" />
+        <item itemvalue="Application.Problem18" />
         <item itemvalue="Application.Problem19" />
         <item itemvalue="Application.Problem17" />
         <item itemvalue="Application.Problem04" />

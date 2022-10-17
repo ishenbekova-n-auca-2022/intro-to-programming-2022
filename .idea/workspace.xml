@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="OJ Midterm Problem 20 is accepted">
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="OJ Midterm Problem 20 is fixed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +45,7 @@
       <recent name="$PROJECT_DIR$/lab-01/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem20">
+  <component name="RunManager" selected="Application.Problem18">
     <configuration name="Problem02" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem02" />
       <module name="intro-to-programming-2022" />
@@ -93,8 +90,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem20" />
         <item itemvalue="Application.Problem18" />
+        <item itemvalue="Application.Problem20" />
         <item itemvalue="Application.Problem19" />
         <item itemvalue="Application.Problem17" />
         <item itemvalue="Application.Problem04" />
@@ -285,7 +282,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666010863030</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="OJ Midterm Problem 20 is accepted">
+      <created>1666010903020</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1666010903020</updated>
+    </task>
+    <task id="LOCAL-00027" summary="OJ Midterm Problem 20 is fixed">
+      <created>1666010971122</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1666010971122</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,7 +332,8 @@
     <MESSAGE value="OJ Midterm Problem 19 is accepted" />
     <MESSAGE value="OJ Midterm Problem 18 is accepted" />
     <MESSAGE value="OJ Midterm Problem 20 is accepted" />
-    <option name="LAST_COMMIT_MESSAGE" value="OJ Midterm Problem 20 is accepted" />
+    <MESSAGE value="OJ Midterm Problem 20 is fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="OJ Midterm Problem 20 is fixed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

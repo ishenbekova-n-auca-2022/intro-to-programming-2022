@@ -8,10 +8,10 @@ public class Problem19 {
         String direction = input.next();
         int distance2 = input.nextInt();
 
-        if (direction.equals("Infront")){
-            System.out.println(distance -distance2);
-        }else if (direction.equals("Behind")){
-            System.out.println(distance2 - distance);
+        if (direction.equals("Infront")) {
+            System.out.println(distance - distance2);
+        } else {
+            System.out.println(distance2 + distance);
         }
     }
 }

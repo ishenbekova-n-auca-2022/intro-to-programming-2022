@@ -13,7 +13,7 @@ public class Problem18 {
         int difference = Math.abs(a - c) + Math.abs(b - d);
         int result = t - difference;
 
-        if (difference > t || result % 2 == 1){
+        if (difference > t || result % 2 == 1) {
             System.out.println("N");
         } else {
             System.out.println("Y");

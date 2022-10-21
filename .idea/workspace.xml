@@ -49,7 +49,7 @@
       <recent name="$PROJECT_DIR$/lab-01/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem24">
+  <component name="RunManager" selected="Application.Problem25">
     <configuration name="Problem02" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem02" />
       <module name="intro-to-programming-2022" />
@@ -85,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem24" />
+    <configuration name="Problem25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem25" />
       <module name="oj-midterm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,7 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem24" />
+        <item itemvalue="Application.Problem25" />
         <item itemvalue="Application.Problem23" />
         <item itemvalue="Application.Problem22" />
         <item itemvalue="Application.Problem21" />

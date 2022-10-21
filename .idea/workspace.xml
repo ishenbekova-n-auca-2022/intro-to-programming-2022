@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="OJ Midterm Problem 22 is accepted">
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem23.java" afterDir="false" />
+    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="OJ Midterm Problem 25 is accepted">
       <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem24.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -49,17 +48,10 @@
       <recent name="$PROJECT_DIR$/lab-01/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem25">
+  <component name="RunManager" selected="Application.Problem24">
     <configuration name="Problem02" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem02" />
       <module name="intro-to-programming-2022" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem04" />
-      <module name="lab-03" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,6 +77,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem24" />
+      <module name="oj-midterm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Problem25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem25" />
       <module name="oj-midterm" />
@@ -94,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem24" />
         <item itemvalue="Application.Problem25" />
         <item itemvalue="Application.Problem23" />
         <item itemvalue="Application.Problem22" />
         <item itemvalue="Application.Problem21" />
-        <item itemvalue="Application.Problem04" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +341,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666355591063</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="OJ Midterm Problem 24 is accepted">
+      <created>1666364022546</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1666364022546</updated>
+    </task>
+    <task id="LOCAL-00035" summary="OJ Midterm Problem 25 is accepted">
+      <created>1666364095784</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1666364095784</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -357,8 +370,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Finish Problem  3 in Lab 1" />
-    <MESSAGE value="Problem 06 almost completed" />
     <MESSAGE value="All problems in lab-01 are completed" />
     <MESSAGE value="Problems 1, 6-8 in lab-2 are completed" />
     <MESSAGE value="Problems 9-10 in lab-2 are completed" />
@@ -382,7 +393,9 @@
     <MESSAGE value="Problems 3-4 are completed" />
     <MESSAGE value="OJ Midterm Problem 21 is accepted" />
     <MESSAGE value="OJ Midterm Problem 22 is accepted" />
-    <option name="LAST_COMMIT_MESSAGE" value="OJ Midterm Problem 22 is accepted" />
+    <MESSAGE value="OJ Midterm Problem 24 is accepted" />
+    <MESSAGE value="OJ Midterm Problem 25 is accepted" />
+    <option name="LAST_COMMIT_MESSAGE" value="OJ Midterm Problem 25 is accepted" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

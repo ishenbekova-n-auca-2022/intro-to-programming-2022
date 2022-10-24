@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="OJ Midterm Problem 23 is accepted">
-      <change afterPath="$PROJECT_DIR$/lab-03/src/Problem06.java" afterDir="false" />
+    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="Problem 06 in lab-3 is completed">
       <change afterPath="$PROJECT_DIR$/lab-03/src/Problem07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -49,7 +48,7 @@
       <recent name="$PROJECT_DIR$/lab-01/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem06">
+  <component name="RunManager" selected="Application.Problem07">
     <configuration name="Problem02" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem02" />
       <module name="intro-to-programming-2022" />
@@ -64,9 +63,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem22" />
-      <module name="oj-midterm" />
+    <configuration name="Problem07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem07" />
+      <module name="lab-03" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem07" />
         <item itemvalue="Application.Problem06" />
         <item itemvalue="Application.Problem23" />
         <item itemvalue="Application.Problem24" />
         <item itemvalue="Application.Problem25" />
-        <item itemvalue="Application.Problem22" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666599878529</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Problem 06 in lab-3 is completed">
+      <created>1666605246813</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1666605246813</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -378,7 +384,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problems 1, 6-8 in lab-2 are completed" />
     <MESSAGE value="Problems 9-10 in lab-2 are completed" />
     <MESSAGE value="OJ Midterm Problems 1-5 are accepted" />
     <MESSAGE value="OJ Midterm Problem 6 is accepted" />
@@ -403,7 +408,8 @@
     <MESSAGE value="OJ Midterm Problem 24 is accepted" />
     <MESSAGE value="OJ Midterm Problem 25 is accepted" />
     <MESSAGE value="OJ Midterm Problem 23 is accepted" />
-    <option name="LAST_COMMIT_MESSAGE" value="OJ Midterm Problem 23 is accepted" />
+    <MESSAGE value="Problem 06 in lab-3 is completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 06 in lab-3 is completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -22,7 +22,7 @@ public class Problem06 {
         } else if (d == 0) {
             double x;
             x = -b / (2 * a);
-            System.out.printf("The equation has one root %f", x);
+            System.out.printf("The equation has one root %.4f", x);
         } else {
             System.out.println("The equation has no real roots");
         }

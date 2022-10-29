@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="Problem 9 in lab-4 is completed">
-      <change afterPath="$PROJECT_DIR$/lab-4/src/Problem06.java" afterDir="false" />
+    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="Problem 6 in lab-4 is completed">
+      <change afterPath="$PROJECT_DIR$/lab-4/src/Problem07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,17 +48,10 @@
       <recent name="$PROJECT_DIR$/lab-01/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem06">
+  <component name="RunManager" selected="Application.Problem07">
     <configuration name="Problem02" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem02" />
       <module name="intro-to-programming-2022" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem03" />
-      <module name="lab-4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -84,6 +77,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem07" />
+      <module name="lab-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Problem09 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem09" />
       <module name="lab-4" />
@@ -93,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem07" />
         <item itemvalue="Application.Problem06" />
         <item itemvalue="Application.Problem09 (1)" />
         <item itemvalue="Application.Problem05" />
         <item itemvalue="Application.Problem04" />
-        <item itemvalue="Application.Problem03" />
       </list>
     </recent_temporary>
   </component>
@@ -425,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667045172615</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Problem 6 in lab-4 is completed">
+      <created>1667056933365</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1667056933365</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -440,7 +447,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problems 2-5 in lab-2 are completed" />
     <MESSAGE value="Problem 2 in lab-3 is completed" />
     <MESSAGE value="Fixed Problem 04 in lab-2" />
     <MESSAGE value="OJ Midterm Problem 17 is accepted" />
@@ -465,7 +471,8 @@
     <MESSAGE value="Problem 4 in lab-4 is completed" />
     <MESSAGE value="Problem 5 in lab-4 is completed" />
     <MESSAGE value="Problem 9 in lab-4 is completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 9 in lab-4 is completed" />
+    <MESSAGE value="Problem 6 in lab-4 is completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 6 in lab-4 is completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

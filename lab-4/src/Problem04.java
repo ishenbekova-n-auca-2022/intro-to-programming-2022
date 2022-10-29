@@ -4,32 +4,25 @@ public class Problem04 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Enter the month number: ");
-        int month = input.nextInt();
+        System.out.print("complexity level? ");
+        int complexity = input.nextInt();
 
-        switch (month) {
-            case 1:
-            case 2:
-            case 12:
-                System.out.println("Winter");
+        switch (complexity) {
+            case 5:
+            case 4:
+                System.out.println("You are a pro gamer.");
                 break;
             case 3:
-            case 4:
-            case 5:
-                System.out.println("Spring");
+            case 2:
+                System.out.println("You are an experienced gamer.");
                 break;
-            case 6:
-            case 7:
-            case 8:
-                System.out.println("Summer");
+            case 1:
+                System.out.println("You are a beginner.");
                 break;
-            case 9:
-            case 10:
-            case 11:
-                System.out.println("Autumn");
-                break;
+            case 0:
+                System.out.println("You are a total newbie.");
             default:
-                System.out.println("Invalid month number");
+                System.out.println("The input is out of range.");
         }
     }
 }

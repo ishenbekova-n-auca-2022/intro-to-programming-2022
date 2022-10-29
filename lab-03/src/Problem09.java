@@ -5,30 +5,46 @@ public class Problem09 {
         Scanner input = new Scanner(System.in);
 
         System.out.print("scissor (0), rock (1), paper (2): ");
-        int choice = input.nextInt();
+        int computerChoice = (int) (Math.random() * 3);
+        int userChoice = input.nextInt();
 
-        int compChoice = (int) (Math.random() * 3);
-        String compChoiceName = "";
         String choiceName = "";
+        String userChoiceName = "";
 
-        if (compChoice == 0 || choice == 0){
-            compChoiceName = "scissor";
-            choiceName = "scissor";
-        } else if (compChoice == 1 || choice == 1) {
-            compChoiceName = "rock";
-            choiceName = "rock";
-        } else {
-            compChoiceName = "paper";
-            choiceName = "paper";
+        switch (computerChoice) {
+            case 0:
+                choiceName = "scissor";
+                break;
+            case 1:
+                choiceName = "rock";
+                break;
+            case 2:
+                choiceName = "paper";
+                break;
         }
 
+        switch (userChoice) {
+            case 0:
+                userChoiceName = "scissor";
+                break;
+            case 1:
+                userChoiceName = "rock";
+                break;
+            case 2:
+                userChoiceName = "paper";
+                break;
+        }
 
-        if (choice == 0 && compChoice == 2 || choice == 1 && compChoice == 0 || choice == 2 && compChoice == 1) {
-            System.out.printf("The computer is %s. You are %s. You won", compChoiceName, choiceName );
-        } else if (choice == 0 && compChoice == 0 || choice == 1 && compChoice == 1 || choice == 2 && compChoice == 2) {
-            System.out.printf("The computer is %s. You are %s too. It is a draw", compChoiceName, choiceName);
+        if (userChoice == 0 && computerChoice == 2) {
+            System.out.printf("The computer is %s. You are %s. You won%n", choiceName, userChoiceName);
+        } else if (userChoice == 1 && computerChoice == 0) {
+            System.out.printf("The computer is %s. You are %s. You won%n", choiceName, userChoiceName);
+        } else if (userChoice == 2 && computerChoice == 1) {
+            System.out.printf("The computer is %s. You are %s. You won%n", choiceName, userChoiceName);
+        } else if (userChoice == computerChoice) {
+            System.out.printf("The computer is %s. You are %s too. It is a draw%n", choiceName, userChoiceName);
         } else {
-            System.out.printf("The computer is %s. You are %s. You lost", compChoiceName, choiceName);
+            System.out.printf("The computer is %s. You are %s. You lost%n", choiceName, userChoiceName);
         }
     }
 }

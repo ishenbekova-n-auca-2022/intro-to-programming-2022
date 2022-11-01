@@ -1,12 +1,14 @@
 import java.util.Scanner;
 
-public class Problem02 {
+public class Problem11 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
         int a = input.nextInt();
-        int b = input.nextInt();
+        int i = input.nextInt();
 
-        System.out.println(a + b);
+        int scientistsCount = a * i - a + 1;
+
+        System.out.println(scientistsCount);
     }
 }

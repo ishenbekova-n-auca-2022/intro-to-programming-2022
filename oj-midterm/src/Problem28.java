@@ -9,7 +9,7 @@ public class Problem28 {
         int digit3 = input.nextInt();
         int digit4 = input.nextInt();
 
-        if (digit1 == 8 || digit1 == 9 && digit4 == 8 || digit4 == 9 && digit2 == digit3) {
+        if (digit1 > 7 && digit1 < 10 && digit2 == digit3 && digit4 > 7 && digit4 < 10) {
             System.out.println("ignore");
         } else {
             System.out.println("answer");

@@ -9,5 +9,10 @@ public class Problem26 {
         int c = input.nextInt();
         int d = input.nextInt();
 
+        if (a >= c && a < d || a <= c && c < b) {
+            System.out.println("YES");
+        } else {
+            System.out.println("NO");
+        }
     }
 }

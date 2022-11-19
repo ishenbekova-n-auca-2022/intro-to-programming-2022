@@ -11,8 +11,8 @@ public class Problem06 {
         double x = input.nextDouble();
         double y = input.nextDouble();
 
-        double distanceX = Math.pow(x * x, 0.5D);
-        double distanceY = Math.pow(y * y, 0.5D);
+        double distanceX = Math.pow(x * x, 0.5);
+        double distanceY = Math.pow(y * y, 0.5);
 
         if (distanceX <= 5 && distanceY <= 2.5){
             System.out.printf("Point (%.1f, %.1f) is in the rectangle", x, y);

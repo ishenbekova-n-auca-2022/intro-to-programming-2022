@@ -1,43 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="OJ Midterm Problem 29 is accepted">
-      <change afterPath="$PROJECT_DIR$/lab-01/lab-01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-midterm/src/Problem50.java" afterDir="false" />
+    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="fixed problems in lab-4">
+      <change afterPath="$PROJECT_DIR$/lab-01/src/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-05/lab-05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-05/src/Problem01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-05/src/Problem02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-05/src/Problem03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-01/project-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-01/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-01/src/Problem01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intro-to-programming-2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/intro-to-programming-2022.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-midterm/src/Problem01.java" beforeDir="false" afterPath="$PROJECT_DIR$/oj-midterm/src/Problem01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-midterm/src/Problem02.java" beforeDir="false" afterPath="$PROJECT_DIR$/oj-midterm/src/Problem02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-midterm/src/Problem03.java" beforeDir="false" afterPath="$PROJECT_DIR$/oj-midterm/src/Problem03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-midterm/src/Problem04.java" beforeDir="false" afterPath="$PROJECT_DIR$/oj-midterm/src/Problem04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-midterm/src/Problem26.java" beforeDir="false" afterPath="$PROJECT_DIR$/oj-midterm/src/Problem26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-midterm/src/Problem28.java" beforeDir="false" afterPath="$PROJECT_DIR$/oj-midterm/src/Problem28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-03/src/Problem01.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-03/src/Problem01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-04/src/Problem02.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-04/src/Problem02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-04/src/Problem03.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-04/src/Problem03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-04/src/Problem06.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-04/src/Problem06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oj-midterm/src/Problem45.java" beforeDir="false" afterPath="$PROJECT_DIR$/oj-midterm/src/Problem45.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +48,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-17",
     "last_opened_file_path": "/home/lenovo/IdeaProjects/intro-to-programming-2022",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -83,17 +62,17 @@
       <recent name="$PROJECT_DIR$/lab-01/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem01 (1)">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="lab-01" />
+  <component name="RunManager" selected="Application.Problem03">
+    <configuration name="Problem01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem01" />
+      <module name="lab-05" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem01" />
-      <module name="lab-01" />
+    <configuration name="Problem02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem02" />
+      <module name="lab-05" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,34 +84,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem14" />
-      <module name="oj-midterm" />
+    <configuration name="Problem03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem03" />
+      <module name="lab-05" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem44" />
-      <module name="oj-midterm" />
+    <configuration name="Problem06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem06" />
+      <module name="lab-04" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem45" />
-      <module name="oj-midterm" />
+    <configuration name="Problem10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem10" />
+      <module name="lab-04" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem01 (1)" />
-        <item itemvalue="Application.Problem44" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Problem45" />
-        <item itemvalue="Application.Problem14" />
+        <item itemvalue="Application.Problem03" />
+        <item itemvalue="Application.Problem02 (1)" />
+        <item itemvalue="Application.Problem01" />
+        <item itemvalue="Application.Problem10" />
+        <item itemvalue="Application.Problem06" />
       </list>
     </recent_temporary>
   </component>
@@ -144,13 +123,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662970033644</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Problem 06 almost completed">
-      <created>1663255420160</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1663255420160</updated>
     </task>
     <task id="LOCAL-00009" summary="All problems in lab-01 are completed">
       <created>1664125631208</created>
@@ -488,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667073372828</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="OJ Midterm Problems are accepted">
+      <created>1667317033192</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1667317033192</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -503,8 +482,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problems 3-4 are completed" />
-    <MESSAGE value="OJ Midterm Problem 21 is accepted" />
     <MESSAGE value="OJ Midterm Problem 22 is accepted" />
     <MESSAGE value="OJ Midterm Problem 24 is accepted" />
     <MESSAGE value="OJ Midterm Problem 25 is accepted" />
@@ -528,7 +505,9 @@
     <MESSAGE value="OJ Midterm Problem 27 is accepted" />
     <MESSAGE value="OJ Midterm Problem 28 is accepted" />
     <MESSAGE value="OJ Midterm Problem 29 is accepted" />
-    <option name="LAST_COMMIT_MESSAGE" value="OJ Midterm Problem 29 is accepted" />
+    <MESSAGE value="OJ Midterm Problems are accepted" />
+    <MESSAGE value="fixed problems in lab-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed problems in lab-4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

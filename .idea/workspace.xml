@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="Problem 06 is completed">
-      <change afterPath="$PROJECT_DIR$/lab-05/src/Problem07.java" afterDir="false" />
+    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="Problem 07 is completed">
+      <change afterPath="$PROJECT_DIR$/lab-05/src/Problem08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
       <recent name="$PROJECT_DIR$/lab-01/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem07">
+  <component name="RunManager" selected="Application.Problem08">
     <configuration name="Problem01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem01" />
       <module name="lab-05" />
@@ -59,13 +60,6 @@
     <configuration name="Problem02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem02" />
       <module name="lab-05" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem02 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem02" />
-      <module name="oj-final" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,13 +85,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem08" />
+      <module name="lab-05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem08" />
         <item itemvalue="Application.Problem07" />
         <item itemvalue="Application.Problem06" />
         <item itemvalue="Application.Problem02 (1)" />
         <item itemvalue="Application.Problem01" />
-        <item itemvalue="Application.Problem02 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -109,13 +110,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662970033644</updated>
-    </task>
-    <task id="LOCAL-00012" summary="OJ Midterm Problems 1-5 are accepted">
-      <created>1664803251770</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1664803251770</updated>
     </task>
     <task id="LOCAL-00013" summary="OJ Midterm Problem 6 is accepted">
       <created>1665497381312</created>
@@ -453,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669100973529</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Problem 07 is completed">
+      <created>1669101501212</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1669101501212</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -468,7 +469,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="OJ Midterm Problem 23 is accepted" />
     <MESSAGE value="Problem 06 in lab-3 is completed" />
     <MESSAGE value="Problem 07 in lab-3 is completed" />
     <MESSAGE value="Fixed Problem 06 in lab-3" />
@@ -493,7 +493,8 @@
     <MESSAGE value="Problems 1-3 in lab-05 are completed" />
     <MESSAGE value="OJ-Final Problem-01 is accepted" />
     <MESSAGE value="Problem 06 is completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 06 is completed" />
+    <MESSAGE value="Problem 07 is completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 07 is completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

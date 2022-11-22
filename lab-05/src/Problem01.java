@@ -6,7 +6,6 @@ public class Problem01 {
 
         double sum = 0;
         int countOfGrades = 0;
-
         int grade;
 
         do {

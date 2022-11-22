@@ -5,7 +5,12 @@ public class Problem02 {
         Scanner scanner = new Scanner(System.in);
 
         int number = scanner.nextInt();
-        String word;
 
+        for (int i = 0; i < number + 1; i ++){
+            String word = scanner.nextLine();
+            if (i % 2 == 1) {
+                System.out.println(word);
+            }
+        }
     }
 }

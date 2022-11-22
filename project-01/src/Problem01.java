@@ -1,37 +1,40 @@
-import processing.core.*;
+import processing.core.PApplet;
 
 public class Problem01 extends PApplet {
-    float x;
-    float y;
-    float dx;
+    int x = 0, y = 0;
 
     public void settings() {
         fullScreen();
     }
 
     public void setup() {
-        x = width / 2f;
-        y = height / 2f;
-        dx = random(10, 15);
+
     }
 
     public void draw() {
-        background(0, 0, 0);
+        noStroke();
+
+        fill(0, 0, 0, 50);
+
+        rect(0, 0, width, height);
+
+        fill(0, 130, 238);
+        circle(width / 2f + x, height / 2f + y, 60);
+
         fill(0, 0, 255);
-        circle(x, y, 50);
-        x += dx;
-        if (x >= width) {
-            x = width - 1;
-            dx = -dx;
-        }
-        if (x < 0) {
-            x = 0;
-            dx = -dx;
-        }
+        circle(width / 4f + x, height / 4f + y, 60);
+
+        fill(135, 105, 63);
+        circle(width / 4f + x, height / 2f + height / 4f + y, 60);
+
+        fill(0, 255, 0);
+        circle(width / 4f + width / 2f + x, height / 4f + y, 60);
+
+        fill(255, 0, 0);
+        circle(width / 4f + width / 2f + x, height / 4f + height / 2f + y, 60);
     }
 
     public static void main(String[] args) {
         PApplet.main("Problem01");
     }
-
 }

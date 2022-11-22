@@ -6,24 +6,13 @@ public class Problem01 {
 
         String greeting = scanner.next();
 
-        int count = 0;
-        int lastE = 0;
+        int countE = greeting.length() - 2;
 
-        for (int i = 0; i < greeting.length(); i++) {
-            if (greeting.charAt(i) == 'e') {
-                count++;
-                lastE = i;
-            }
+        System.out.print("h");
+
+        for (int i = 0; i < 2 * countE; i++) {
+            System.out.print("e");
         }
-
-        String processing = greeting.substring(0, lastE);
-        String countOfString = "";
-
-        for (int i = 0; i < count; i++) {
-            countOfString += 'e';
-        }
-
-        String result = processing + countOfString + greeting.substring(lastE);
-        System.out.println(result);
+        System.out.print("y");
     }
 }

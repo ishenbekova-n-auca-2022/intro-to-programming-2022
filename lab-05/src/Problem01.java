@@ -7,18 +7,18 @@ public class Problem01 {
         double sum = 0;
         int countOfGrades = 0;
 
-        int grade = scanner.nextInt();
+        int grade;
 
-        while (grade != 0) {
-            sum += countOfGrades;
-            ++countOfGrades;
+        do {
             grade = scanner.nextInt();
-        }
+            countOfGrades++;
+            sum += grade;
+        } while (grade != 0);
+
         if (countOfGrades != 0) {
-            System.out.printf("%.1f%n", sum / countOfGrades);
+            System.out.println("The arithmetic mean is " + sum / (countOfGrades - 1));
         } else {
             System.out.println("Nothing to calculate");
         }
     }
-
 }

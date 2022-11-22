@@ -13,17 +13,32 @@ public class Problem03 {
         int numberOfTests = scanner.nextInt();
 
         int correctAnswers = 0;
+        int count = 0;
 
-        for (int i = 0; i < numberOfTests; i++) {
-            int op1 = -50 + random.nextInt(101);
-            int op2 = -50 + random.nextInt(101);
-            System.out.printf("%d + %d = ", op1, op2);
+        while (count < numberOfTests) {
+            int operation1 = -50 + random.nextInt(101);
+            int operation2 = -50 + random.nextInt(101);
+
+            System.out.printf("%d + %d = ", operation1, operation2);
             int answer = scanner.nextInt();
-            if (answer == op1 + op2) {
-                ++correctAnswers;
+
+            if (answer == operation1 + operation2) {
+                correctAnswers++;
             }
+
+            count++;
         }
+
+//        for (int i = 0; i < numberOfTests; i++) {
+//            int operation1 = -50 + random.nextInt(101);
+//            int operation2 = -50 + random.nextInt(101);
+//            System.out.printf("%d + %d = ", operation1, operation2);
+//            int answer = scanner.nextInt();
+//            if (answer == operation1 + operation2) {
+//                ++correctAnswers;
+//            }
+//        }
         System.out.println("Number of correct answers: " + correctAnswers);
-        System.out.println("Number of incorrect answers:" + (numberOfTests - correctAnswers));
+        System.out.println("Number of incorrect answers: " + (numberOfTests - correctAnswers));
     }
 }

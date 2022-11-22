@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="Doing project-01. Circles are drown.">
+    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="Doing project-01. Setting colors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-01/src/Problem01.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-01/src/Problem01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-05/src/Problem03.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-05/src/Problem03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
       <recent name="$PROJECT_DIR$/lab-01/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem01 (1)">
+  <component name="RunManager" selected="Application.Problem03 (1)">
     <configuration name="Problem01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem01" />
       <module name="project-01" />
@@ -78,6 +78,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem03" />
+      <module name="lab-05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Problem03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem03" />
       <module name="oj-final" />
@@ -85,20 +92,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem10" />
-      <module name="lab-05" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem03 (1)" />
         <item itemvalue="Application.Problem01 (1)" />
         <item itemvalue="Application.Problem03" />
         <item itemvalue="Application.Problem02 (2)" />
         <item itemvalue="Application.Problem01" />
-        <item itemvalue="Application.Problem10" />
       </list>
     </recent_temporary>
   </component>
@@ -110,13 +110,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662970033644</updated>
-    </task>
-    <task id="LOCAL-00017" summary="OJ Midterm Problem 10 is accepted">
-      <created>1665498491667</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1665498491667</updated>
     </task>
     <task id="LOCAL-00018" summary="OJ Midterm Problem 16 is accepted">
       <created>1665566939508</created>
@@ -454,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669131047469</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Doing project-01. Setting colors">
+      <created>1669131800293</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1669131800293</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,7 +469,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problem 05 in lab-3 is completed" />
     <MESSAGE value="Problems 2-3 in lab-4 are completed" />
     <MESSAGE value="Problem 4 in lab-4 is completed" />
     <MESSAGE value="Problem 5 in lab-4 is completed" />
@@ -494,7 +493,8 @@
     <MESSAGE value="Problem 09 in lab-05 is completed" />
     <MESSAGE value="Problem 10 in lab-05 is completed" />
     <MESSAGE value="Doing project-01. Circles are drown." />
-    <option name="LAST_COMMIT_MESSAGE" value="Doing project-01. Circles are drown." />
+    <MESSAGE value="Doing project-01. Setting colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Doing project-01. Setting colors" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

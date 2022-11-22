@@ -14,13 +14,13 @@ public class Problem07 {
         System.out.println("The number is " + number);
         System.out.println("The sum is " + sum);
 
-        //second case
-        while (number < 20) {
-            number ++;
-            if (number == 10 || number == 11)
-                continue;
-            sum += number;
-        }
-        System.out.println("The sum is " + sum);
+//      second case //
+//        while (number < 20) {
+//            number ++;
+//            if (number == 10 || number == 11)
+//                continue;
+//            sum += number;
+//        }
+//        System.out.println("The sum is " + sum);
     }
 }

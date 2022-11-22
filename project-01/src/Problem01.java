@@ -19,19 +19,19 @@ public class Problem01 extends PApplet {
 
         rect(0, 0, width, height);
 
-        fill(57, 130, 238);
+        fill(225, 121, 216);
         circle(width / 2f + x, height / 2f + y, 60);
 
-        fill(198, 45, 255);
+        fill(0, 0, 255);
         circle(width / 4f + x, height / 4f + y, 60);
 
-        fill(135, 105, 63);
+        fill(240, 250, 63   );
         circle(width / 4f + x, height / 2f + height / 4f + y, 60);
 
-        fill(72, 255, 90);
+        fill(0, 255, 0);
         circle(width / 4f + width / 2f + x, height / 4f + y, 60);
 
-        fill(146, 200, 20);
+        fill(255, 0, 0);
         circle(width / 4f + width / 2f + x, height / 4f + height / 2f + y, 60);
 
         if (x >= width / 4 - 30 || x <= -width / 4 + 30) {

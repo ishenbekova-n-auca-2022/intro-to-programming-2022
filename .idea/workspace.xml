@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="Problem 10 in lab-05 is completed">
-      <change afterPath="$PROJECT_DIR$/oj-final/src/Problem03.java" afterDir="false" />
+    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="Doing project-01. Circles are drown.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab-05/src/Problem01.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-05/src/Problem01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-final/src/Problem02.java" beforeDir="false" afterPath="$PROJECT_DIR$/oj-final/src/Problem02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project-01/src/Problem01.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-01/src/Problem01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,13 +110,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662970033644</updated>
-    </task>
-    <task id="LOCAL-00016" summary="OJ Midterm Problem 9 is accepted">
-      <created>1665498429786</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1665498429786</updated>
     </task>
     <task id="LOCAL-00017" summary="OJ Midterm Problem 10 is accepted">
       <created>1665498491667</created>
@@ -457,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669105042188</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Doing project-01. Circles are drown.">
+      <created>1669131047469</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1669131047469</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,7 +469,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problem 08 in lab-3 is completed" />
     <MESSAGE value="Problem 05 in lab-3 is completed" />
     <MESSAGE value="Problems 2-3 in lab-4 are completed" />
     <MESSAGE value="Problem 4 in lab-4 is completed" />
@@ -497,7 +493,8 @@
     <MESSAGE value="Problem 08 is completed" />
     <MESSAGE value="Problem 09 in lab-05 is completed" />
     <MESSAGE value="Problem 10 in lab-05 is completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 10 in lab-05 is completed" />
+    <MESSAGE value="Doing project-01. Circles are drown." />
+    <option name="LAST_COMMIT_MESSAGE" value="Doing project-01. Circles are drown." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

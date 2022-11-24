@@ -13,6 +13,7 @@ public class Problem01 {
         for (int i = 0; i < 2 * countE; i++) {
             System.out.print("e");
         }
+
         System.out.print("y");
     }
 }

@@ -4,19 +4,18 @@ public class Problem03 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int number = scanner.nextInt();
-        int points;
+        int bats = scanner.nextInt();
         double sum = 0;
+        int countOfWalk = 0;
 
-        for (int i = 0; i < number; i ++) {
-            points = scanner.nextInt();
-            if (points == -1){
-                number = number - 1;
-                sum = sum + points + 1;
-            } else {
-                sum += points;
-            }
+        for (int i = 0; i < bats; i++) {
+            int number = scanner.nextInt();
+
+            if (number < 0) continue;
+            countOfWalk++;
+            sum += number;
         }
-        System.out.println(sum/number);
+
+        System.out.println(sum / countOfWalk);
     }
 }

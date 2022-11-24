@@ -10,6 +10,7 @@ public class Problem02 {
 
         for (int i = 0; i < number; i++) {
             word = scanner.next();
+
             if (i % 2 == 0) {
                 System.out.println("\n" + word);
             }

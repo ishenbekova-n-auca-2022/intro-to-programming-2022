@@ -24,6 +24,9 @@ public class Problem03 extends PApplet {
         circleX = width / 6f;
         circleY = height / 2f;
         circleRadius = min(width, height) / 7f;
+
+        stroke(255, 255, 0);
+        rect(30, 20, 55, 55);
     }
 
     public void draw() {

@@ -4,26 +4,35 @@ public class Problem20 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int cases = 1;
         String letter;
         int victory = 0;
         int loss = 0;
+        int cases = 1;
+        int max = 6;
 
-        while (cases != 7){
-            letter = scanner.nextLine();
+        while (cases != max) {
+            letter = scanner.next();
 
-            if (letter.equals("W")) {
+            if (scanner.hasNext("W")) {
                 victory++;
-            } else if (letter.equals("L")) {
+            } else if (scanner.hasNext("L")) {
                 loss++;
             }
+//            if (letter.equals("W")) {
+//                victory++;
+//            } else if (letter.equals("L")) {
+//                loss++;
+//            }
         }
 
-        System.out.println(victory);
-        System.out.println(loss);
-        while (scanner.hasNext("W")){
-            victory ++;
-            loss = 6 - victory;
+        if (victory >= 5) {
+            System.out.println(1);
+        } else if (victory == 3 || victory == 4) {
+            System.out.println(2);
+        } else if (victory == 1 || victory == 2) {
+            System.out.println(3);
+        } else {
+            System.out.println(-1);
         }
     }
 }

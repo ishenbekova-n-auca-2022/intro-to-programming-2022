@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="Rectangle is drawn in Project03">
+    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="Circle is drawn in Project03">
+      <change afterPath="$PROJECT_DIR$/oj-final/src/Problem19.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oj-final/src/Problem20.java" beforeDir="false" afterPath="$PROJECT_DIR$/oj-final/src/Problem20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project-01/src/Problem03.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-01/src/Problem03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +51,7 @@
       <recent name="$PROJECT_DIR$/lab-01/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem03">
+  <component name="RunManager" selected="Application.Problem19">
     <configuration name="Problem02" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem02" />
       <module name="intro-to-programming-2022" />
@@ -71,13 +73,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem04" />
-      <module name="project-01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Problem05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem05" />
       <module name="lab-05" />
@@ -85,8 +80,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem11" />
+    <configuration name="Problem19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem19" />
+      <module name="oj-final" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem20" />
       <module name="oj-final" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem19" />
         <item itemvalue="Application.Problem03" />
+        <item itemvalue="Application.Problem20" />
         <item itemvalue="Application.Problem05" />
         <item itemvalue="Application.Problem04 (1)" />
-        <item itemvalue="Application.Problem04" />
-        <item itemvalue="Application.Problem11" />
       </list>
     </recent_temporary>
   </component>
@@ -110,13 +112,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662970033644</updated>
-    </task>
-    <task id="LOCAL-00030" summary="OJ Midterm Problem 18 was fixed">
-      <created>1666012265554</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1666012265554</updated>
     </task>
     <task id="LOCAL-00031" summary="Problems 3-4 are completed">
       <created>1666170289975</created>
@@ -454,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669649781482</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Circle is drawn in Project03">
+      <created>1669651012536</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1669651012536</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,7 +471,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="OJ Midterm Problem 28 is accepted" />
     <MESSAGE value="OJ Midterm Problem 29 is accepted" />
     <MESSAGE value="OJ Midterm Problems are accepted" />
     <MESSAGE value="fixed problems in lab-4" />
@@ -494,7 +495,8 @@
     <MESSAGE value="Lines are drawn in Project04" />
     <MESSAGE value="Mouse-circle is drawn in Project03" />
     <MESSAGE value="Rectangle is drawn in Project03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rectangle is drawn in Project03" />
+    <MESSAGE value="Circle is drawn in Project03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Circle is drawn in Project03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

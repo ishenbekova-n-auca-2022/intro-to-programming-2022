@@ -36,8 +36,6 @@ public class Problem03 extends PApplet {
         rect(0, 0, width, height);
         fill(0,100, 100);
         rect(rectX, rectY, rectWidth, rectHeight);
-        fill(0, 0, 255);
-        circle(mouseX, mouseY, 50);
 
         fill(255, 0, 0);
         circle(circleX, circleY, 2 * circleRadius);

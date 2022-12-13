@@ -4,9 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="Oj-Final Problem 23 is accepted">
-      <change afterPath="$PROJECT_DIR$/oj-final/src/Problem24.java" afterDir="false" />
+    <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="Oj-Final Problem 24 is accepted">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/intro_to_programming_2022_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-06/src/Problem01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-06/src/Problem04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-06/src/Problem06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-06/src/Problem07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-07/lab-07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-07/src/Problem03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oj-final/src/Problem25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-02/project-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-02/src/Problem05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-05/src/Problem01.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-05/src/Problem01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oj-final/src/Problem19.java" beforeDir="false" afterPath="$PROJECT_DIR$/oj-final/src/Problem19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oj-final/src/Problem20.java" beforeDir="false" afterPath="$PROJECT_DIR$/oj-final/src/Problem20.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +51,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-17&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/lenovo/IdeaProjects/intro-to-programming-2022/lib/core.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
@@ -52,7 +65,21 @@
       <recent name="$PROJECT_DIR$/lab-01/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem24">
+  <component name="RunManager" selected="Application.Problem07">
+    <configuration name="Problem01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem01" />
+      <module name="lab-06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem01" />
+      <module name="lab-05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Problem02" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem02" />
       <module name="intro-to-programming-2022" />
@@ -60,48 +87,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem03" />
+    <configuration name="Problem04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem04" />
       <module name="lab-06" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem03" />
-      <module name="project-01" />
+    <configuration name="Problem06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem06" />
+      <module name="lab-06" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem20" />
-      <module name="oj-final" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem23" />
-      <module name="oj-final" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem24" />
-      <module name="oj-final" />
+    <configuration name="Problem07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem07" />
+      <module name="lab-06" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem24" />
-        <item itemvalue="Application.Problem23" />
-        <item itemvalue="Application.Problem03 (1)" />
-        <item itemvalue="Application.Problem03" />
-        <item itemvalue="Application.Problem20" />
+        <item itemvalue="Application.Problem07" />
+        <item itemvalue="Application.Problem04" />
+        <item itemvalue="Application.Problem06" />
+        <item itemvalue="Application.Problem01 (1)" />
+        <item itemvalue="Application.Problem01" />
       </list>
     </recent_temporary>
   </component>
@@ -113,13 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662970033644</updated>
-    </task>
-    <task id="LOCAL-00034" summary="OJ Midterm Problem 24 is accepted">
-      <created>1666364022546</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1666364022546</updated>
     </task>
     <task id="LOCAL-00035" summary="OJ Midterm Problem 25 is accepted">
       <created>1666364095784</created>
@@ -457,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670422026492</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Oj-Final Problem 24 is accepted">
+      <created>1670422951986</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1670422951986</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,7 +485,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problems 1-3 in lab-05 are completed" />
     <MESSAGE value="OJ-Final Problem-01 is accepted" />
     <MESSAGE value="Problem 06 is completed" />
     <MESSAGE value="Problem 07 is completed" />
@@ -497,7 +509,8 @@
     <MESSAGE value="Oj-Final Problem 19 is accepted" />
     <MESSAGE value="Oj-Final Problem 12 is accepted" />
     <MESSAGE value="Oj-Final Problem 23 is accepted" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oj-Final Problem 23 is accepted" />
+    <MESSAGE value="Oj-Final Problem 24 is accepted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oj-Final Problem 24 is accepted" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -569,6 +582,16 @@
           <url>file://$PROJECT_DIR$/oj-final/src/Problem23.java</url>
           <line>6</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oj-final/src/Problem25.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab-05/src/Problem01.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

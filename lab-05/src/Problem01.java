@@ -14,9 +14,9 @@ public class Problem01 {
             sum += grade;
         } while (grade != 0);
 
-        if (countOfGrades != 0) {
+        if (countOfGrades != 0 && sum !=0) {
             System.out.println("The arithmetic mean is " + sum / (countOfGrades - 1));
-        } else {
+        } else if (countOfGrades == 1){
             System.out.println("Nothing to calculate");
         }
     }

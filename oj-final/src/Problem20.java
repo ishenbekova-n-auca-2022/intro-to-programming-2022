@@ -8,7 +8,7 @@ public class Problem20 {
         int loss = 0;
         int i = 0;
 
-        while (i < 6) {
+        while (i < 5) {
             String letter = scanner.next();
             i++;
 
@@ -36,4 +36,5 @@ public class Problem20 {
                 System.out.println(-1);
         }
     }
+    //
 }

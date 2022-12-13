@@ -21,5 +21,6 @@ public class Problem19 {
         if (count == 0) {
             System.out.println("No such integer exist.");
         }
+        //
     }
 }

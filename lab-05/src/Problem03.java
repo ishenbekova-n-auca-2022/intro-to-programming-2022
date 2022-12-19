@@ -7,8 +7,6 @@ public class Problem03 {
 
         Random random = new Random();
 
-        double r = Math.random();
-
         System.out.print("Number of tests? ");
         int numberOfTests = scanner.nextInt();
 

@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b802ae31-ef2a-4ebf-a3de-b6a537215076" name="Changes" comment="Project 02-01 is finished">
-      <change afterPath="$PROJECT_DIR$/lab-07/src/Problem02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-final/src/Problem12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-final/src/Problem15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-final/src/Problem26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-final/src/Problem28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-final/src/Problem30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-final/src/Problem31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-final/src/Problem32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-final/src/Problem33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oj-final/src/Problem34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-06/src/Problem09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-06/src/Problem10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-final/src/Problem13.java" beforeDir="false" afterPath="$PROJECT_DIR$/oj-final/src/Problem13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-05/src/Problem02.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-05/src/Problem02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-05/src/Problem03.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-05/src/Problem03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +55,10 @@
       <recent name="$PROJECT_DIR$/lab-01/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem02 (1)">
-    <configuration name="Problem02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Problem10">
+    <configuration name="Problem02 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem02" />
-      <module name="lab-07" />
+      <module name="lab-05" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -77,41 +70,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem07" />
-      <module name="oj-final" />
+    <configuration name="Problem03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem03" />
+      <module name="lab-06" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem32" />
-      <module name="oj-final" />
+    <configuration name="Problem05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem05" />
+      <module name="lab-05" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem33" />
-      <module name="oj-final" />
+    <configuration name="Problem09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem09" />
+      <module name="lab-06" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem34" />
-      <module name="oj-final" />
+    <configuration name="Problem10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem10" />
+      <module name="lab-06" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem02 (1)" />
-        <item itemvalue="Application.Problem34" />
-        <item itemvalue="Application.Problem33" />
-        <item itemvalue="Application.Problem07" />
-        <item itemvalue="Application.Problem32" />
+        <item itemvalue="Application.Problem10" />
+        <item itemvalue="Application.Problem09" />
+        <item itemvalue="Application.Problem03" />
+        <item itemvalue="Application.Problem05" />
+        <item itemvalue="Application.Problem02 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -584,11 +577,6 @@
           <url>file://$PROJECT_DIR$/oj-final/src/Problem25.java</url>
           <line>6</line>
           <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/lab-05/src/Problem01.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/oj-final/src/Problem10.java</url>

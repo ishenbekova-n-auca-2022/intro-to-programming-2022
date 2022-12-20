@@ -1,4 +1,3 @@
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Problem11 {
@@ -7,17 +6,21 @@ public class Problem11 {
 
         int number = scanner.nextInt();
 
-        double min = 0;
+        double[] list = new double[number];
 
-        for (int i = 0; i < number; i ++) {
+        for (int i = 0; i < number; i++) {
             double n = scanner.nextDouble();
+            list[i] = n;
+        }
 
-            if (n < number) {
-                min = n;
-                i ++;
+        double min = list[0];
+
+        for (int i = 0; i < number; i++) {
+            if (min > list[i]) {
+                min = list[i];
             }
         }
+
         System.out.printf("%.2f", min);
     }
-    //
 }

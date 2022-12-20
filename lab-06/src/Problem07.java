@@ -4,9 +4,10 @@ public class Problem07 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        System.out.print("An integer? ");
         int number = scanner.nextInt();
 
-        System.out.println(number + (isPalindrome(number) ? " is " : " is not ") + "a palindrome.");
+        System.out.println(number + (isPalindrome(number) ? " is " : " is not ") + "a palindrome");
     }
 
     static int reverse(int number) {

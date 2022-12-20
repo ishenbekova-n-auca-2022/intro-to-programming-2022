@@ -5,14 +5,14 @@ public class Problem02 {
     public static void main(String[] args) {
 
         while (true){
-            int year = readInt("Year: ", "incorrect message", 1, 10000);
             int month = readInt("Month: ", "incorrect month", 1, 12);
+            int year = readInt("Year: ", "incorrect message", 1, 10000);
 
-            System.out.println("Number of days: " + getNumberOfDays(year, month));
+            System.out.println("Number of days: " + getNumberOfDays(month, year));
         }
     }
 
-    static int getNumberOfDays(int year, int month){
+    static int getNumberOfDays(int month, int year){
         int[] days = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
 
         int result = days[month - 1];

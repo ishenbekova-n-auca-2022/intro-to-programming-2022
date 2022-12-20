@@ -15,13 +15,13 @@ public class Problem03 {
             a[i] = scanner.nextInt();
         }
 
-        System.out.println("Before reversing: ");
+        System.out.println("Before reversing:");
 
         for (int i = 0; i < a.length; i++){
             System.out.print(a[i] + " ");
         }
 
-        System.out.println("\nAfter reversing: ");
+        System.out.println("\nAfter reversing:");
 
         for (int i = a.length -1; i >= 0; i--){
             System.out.print(a[i] + " ");

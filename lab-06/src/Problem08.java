@@ -4,6 +4,7 @@ public class Problem08 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        System.out.print("n? ");
         int numberOfRows = scanner.nextInt();
 
         displayPattern(numberOfRows);

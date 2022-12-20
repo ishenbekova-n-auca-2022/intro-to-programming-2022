@@ -2,25 +2,31 @@ import java.util.Scanner;
 
 public class Problem26 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
 
-        int rangeTop = scanner.nextInt();
-        int rangeEnd = scanner.nextInt();
+        int beginOfRange = input.nextInt();
+        int endOfRange = input.nextInt();
 
         int count = 0;
-        int rsa = 0;
 
-        for (int i = rangeTop; i <= rangeEnd; i++) {
-            for (int j = 1; j <= rangeTop; j++) {
-                if (i % j == 0) {
-                    count++;
-                }
-                if (count == 4){
-                    rsa++;
+        for (int i = beginOfRange; i <= endOfRange; ++i) {
+            int countOfDivisors = 0;
+
+            for (int k = 1; k <= Math.sqrt(i); ++k) {
+                if (i % k == 0) {
+                    if (i / k == k) {
+                        countOfDivisors++;
+                    } else {
+                        countOfDivisors = countOfDivisors + 2;
+                    }
                 }
             }
+
+            if (countOfDivisors == 4) {
+                count++;
+            }
         }
-            System.out.printf("The number of RSA numbers between %d and %d is %d", rangeTop, rangeEnd, rsa);
-        //
+
+        System.out.printf("The number of RSA numbers between %d and %d is %d%n", beginOfRange, endOfRange, count);
     }
 }

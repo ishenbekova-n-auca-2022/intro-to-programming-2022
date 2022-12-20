@@ -1,10 +1,12 @@
+import java.util.Locale;
+
 public class Problem10 {
     public static void main(String[] args) {
+        Locale.setDefault(Locale.US);
         double start = 1;
         double end = 20;
 
-        System.out.println("\ni          m(i)     ");
-        System.out.println("--------------------");
+        System.out.println("\ni           m(i)");
 
         for (double i = start; i <=end; i++){
             System.out.printf("%-10.0f", i);

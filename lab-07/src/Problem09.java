@@ -6,14 +6,14 @@ public class Problem09 {
 
         double[] numbers = new double[10];
 
-        System.out.print("Enter ten numbers: ");
+        System.out.print("10 numbers: ");
         for (int i = 0; i < numbers.length; i++)
             numbers[i] = input.nextDouble();
 
-        System.out.println("The minimum number is " + numbers[smallestElement(numbers)] + ", index is " + smallestElement(numbers));
+        System.out.println(indexOfSmallestElement(numbers));
     }
 
-    public static int smallestElement(double[] array) {
+    public static int indexOfSmallestElement(double[] array) {
         if (array.length <= 1)
             return 0;
 

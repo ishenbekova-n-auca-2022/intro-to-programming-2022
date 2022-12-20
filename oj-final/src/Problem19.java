@@ -6,21 +6,11 @@ public class Problem19 {
 
         int x = scanner.nextInt();
         int m = scanner.nextInt();
+        int n = 1;
 
-        int n = x;
-        int count = 0;
-
-        while (n <= m + 1) {
-            if (n * x % m == 1) {
-                System.out.println(n);
-                count++;
-            }
+        while ((x * n) % m != 1 && n < m) {
             n++;
         }
-
-        if (count == 0) {
-            System.out.println("No such integer exist.");
-        }
-        //
+        System.out.println(n < m ? n : "No such integer exists.");
     }
 }

@@ -3,21 +3,18 @@ import java.util.Scanner;
 public class Problem31 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        int m = scanner.nextInt();
+        int n = scanner.nextInt();
+        int firstDigit, secondDigit, thirdDigit;
 
-        int rangeTop = scanner.nextInt();
-        int rangeEnd = scanner.nextInt();
+        for (int i = m; i < n; i++) {
+            firstDigit = i / 100;
+            secondDigit = (i % 100) / 10;
+            thirdDigit = i % 10;
 
-        for (int i = rangeTop; i <= rangeEnd; i++) {
-            i++;
-            int a = i / 100;
-            int b = i / 10 % 10;
-            int c = i % 100;
-
-            if (Math.pow(a + b + c, 3) == i) {
+            if (Math.pow(firstDigit, 3) + Math.pow(secondDigit, 3) + Math.pow(thirdDigit, 3) == i) {
                 System.out.println(i);
             }
-            i++;
-
         }
     }
 }

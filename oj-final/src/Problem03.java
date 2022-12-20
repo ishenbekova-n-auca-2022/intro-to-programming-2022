@@ -5,6 +5,7 @@ public class Problem03 {
         Scanner scanner = new Scanner(System.in);
 
         int bats = scanner.nextInt();
+
         double sum = 0;
         int countOfWalk = 0;
 

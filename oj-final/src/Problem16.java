@@ -8,7 +8,7 @@ public class Problem16 {
         for (int i = 0; i < t; i++) {
             n = scanner.nextInt();
             if (n > 315 || n <= 45) {
-                System.out.println("n");
+                System.out.println("N");
             }
             if (n > 45 && n <= 135) {
                 System.out.println("E");

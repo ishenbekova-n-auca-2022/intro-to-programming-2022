@@ -6,6 +6,7 @@ public class Problem21 {
         int p = scanner.nextInt();
         int n = scanner.nextInt();
         int r = scanner.nextInt();
+
         int m = 0;
         int infected = 0;
 
